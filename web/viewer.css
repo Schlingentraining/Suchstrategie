@@ -6418,3 +6418,12 @@ dialog :link{
     display:none;
   }
 }
+
+#secondaryToolbarToggleButton, 
+#editorStampButton, 
+#sidebarToggleButton, 
+#editorHighlightButton, 
+#editorFreeTextButton, 
+#editorInkButton {
+  display: none !important;
+}
